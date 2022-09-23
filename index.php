@@ -1,3 +1,3 @@
 <?php
 
-// TODO: Start work on "👔 Attire"
+require 'includes.php';
